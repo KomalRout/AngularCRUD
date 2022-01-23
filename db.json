@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "id": 123001,
+      "name": "Rabindr",
+      "email": "rkrout@ntpc.yahoo.co.in",
+      "mobile": "910917979",
+      "salary": "10000000"
+    },
+    {
+      "id": 1234,
+      "name": "Komal Rout",
+      "email": "komal.rout@wipro.com",
+      "mobile": "917896021",
+      "salary": "10000"
+    }
+  ]
+}
